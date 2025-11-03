@@ -1,0 +1,517 @@
+Section,Recipe Text,Question,Type,Left Label,Right Label
+Recipe 1 - Jollof Rice,"About: A beloved West African rice dish cooked in a rich tomato sauce.
+
+Ingredients:
+- 3 cups long-grain parboiled rice
+- 1/4 cup vegetable oil
+- 5 tomatoes
+- 2 onions
+- 2 red bell peppers
+- 2 cups chicken stock
+- Spices (thyme, curry powder, bay leaf, salt, pepper)
+
+Instructions:
+Blend tomatoes, onions, and peppers. Heat oil, fry the mixture, add stock and spices. Stir in rice and cook until fluffy.",How culturally authentic is this recipe?,Linear Scale 1-5,Not Authentic,Very Authentic
+Recipe 1 - Jollof Rice,"About: A beloved West African rice dish cooked in a rich tomato sauce.
+
+Ingredients:
+- 3 cups long-grain parboiled rice
+- 1/4 cup vegetable oil
+- 5 tomatoes
+- 2 onions
+- 2 red bell peppers
+- 2 cups chicken stock
+- Spices (thyme, curry powder, bay leaf, salt, pepper)
+
+Instructions:
+Blend tomatoes, onions, and peppers. Heat oil, fry the mixture, add stock and spices. Stir in rice and cook until fluffy.",Could this recipe be successfully executed by a home cook?,Linear Scale 1-5,Not Viable,Very Viable
+Recipe 1 - Jollof Rice,"About: A beloved West African rice dish cooked in a rich tomato sauce.
+
+Ingredients:
+- 3 cups long-grain parboiled rice
+- 1/4 cup vegetable oil
+- 5 tomatoes
+- 2 onions
+- 2 red bell peppers
+- 2 cups chicken stock
+- Spices (thyme, curry powder, bay leaf, salt, pepper)
+
+Instructions:
+Blend tomatoes, onions, and peppers. Heat oil, fry the mixture, add stock and spices. Stir in rice and cook until fluffy.",Are the ingredients culturally accurate and reasonably available?,Linear Scale 1-5,Inappropriate,Very Appropriate
+Recipe 1 - Jollof Rice,"About: A beloved West African rice dish cooked in a rich tomato sauce.
+
+Ingredients:
+- 3 cups long-grain parboiled rice
+- 1/4 cup vegetable oil
+- 5 tomatoes
+- 2 onions
+- 2 red bell peppers
+- 2 cups chicken stock
+- Spices (thyme, curry powder, bay leaf, salt, pepper)
+
+Instructions:
+Blend tomatoes, onions, and peppers. Heat oil, fry the mixture, add stock and spices. Stir in rice and cook until fluffy.",Overall quality of this recipe?,Linear Scale 1-5,Poor,Excellent
+Recipe 2 - Egusi Soup,"About: A thick Nigerian soup made with ground melon seeds and leafy vegetables.
+
+Ingredients:
+- 2 cups ground egusi (melon seeds)
+- 500g assorted meat
+- 1/2 cup palm oil
+- 2 cups spinach or bitterleaf
+- Seasoning cubes, salt, pepper
+
+Instructions:
+Heat palm oil, add ground egusi and fry. Add stock, meat, seasonings, and vegetables. Cook until thick.",How culturally authentic is this recipe?,Linear Scale 1-5,Not Authentic,Very Authentic
+Recipe 2 - Egusi Soup,"About: A thick Nigerian soup made with ground melon seeds and leafy vegetables.
+
+Ingredients:
+- 2 cups ground egusi (melon seeds)
+- 500g assorted meat
+- 1/2 cup palm oil
+- 2 cups spinach or bitterleaf
+- Seasoning cubes, salt, pepper
+
+Instructions:
+Heat palm oil, add ground egusi and fry. Add stock, meat, seasonings, and vegetables. Cook until thick.",Could this recipe be successfully executed by a home cook?,Linear Scale 1-5,Not Viable,Very Viable
+Recipe 2 - Egusi Soup,"About: A thick Nigerian soup made with ground melon seeds and leafy vegetables.
+
+Ingredients:
+- 2 cups ground egusi (melon seeds)
+- 500g assorted meat
+- 1/2 cup palm oil
+- 2 cups spinach or bitterleaf
+- Seasoning cubes, salt, pepper
+
+Instructions:
+Heat palm oil, add ground egusi and fry. Add stock, meat, seasonings, and vegetables. Cook until thick.",Are the ingredients culturally accurate and reasonably available?,Linear Scale 1-5,Inappropriate,Very Appropriate
+Recipe 2 - Egusi Soup,"About: A thick Nigerian soup made with ground melon seeds and leafy vegetables.
+
+Ingredients:
+- 2 cups ground egusi (melon seeds)
+- 500g assorted meat
+- 1/2 cup palm oil
+- 2 cups spinach or bitterleaf
+- Seasoning cubes, salt, pepper
+
+Instructions:
+Heat palm oil, add ground egusi and fry. Add stock, meat, seasonings, and vegetables. Cook until thick.",Overall quality of this recipe?,Linear Scale 1-5,Poor,Excellent
+Recipe 3 - Suya,"About: Spicy grilled meat skewers popular in Nigeria and West Africa.
+
+Ingredients:
+- 500g beef (thinly sliced)
+- 2 tbsp suya spice mix
+- 2 tbsp groundnut oil
+- Salt
+
+Instructions:
+Marinate beef with spices and oil. Skewer the meat and grill until tender.",How culturally authentic is this recipe?,Linear Scale 1-5,Not Authentic,Very Authentic
+Recipe 3 - Suya,"About: Spicy grilled meat skewers popular in Nigeria and West Africa.
+
+Ingredients:
+- 500g beef (thinly sliced)
+- 2 tbsp suya spice mix
+- 2 tbsp groundnut oil
+- Salt
+
+Instructions:
+Marinate beef with spices and oil. Skewer the meat and grill until tender.",Could this recipe be successfully executed by a home cook?,Linear Scale 1-5,Not Viable,Very Viable
+Recipe 3 - Suya,"About: Spicy grilled meat skewers popular in Nigeria and West Africa.
+
+Ingredients:
+- 500g beef (thinly sliced)
+- 2 tbsp suya spice mix
+- 2 tbsp groundnut oil
+- Salt
+
+Instructions:
+Marinate beef with spices and oil. Skewer the meat and grill until tender.",Are the ingredients culturally accurate and reasonably available?,Linear Scale 1-5,Inappropriate,Very Appropriate
+Recipe 3 - Suya,"About: Spicy grilled meat skewers popular in Nigeria and West Africa.
+
+Ingredients:
+- 500g beef (thinly sliced)
+- 2 tbsp suya spice mix
+- 2 tbsp groundnut oil
+- Salt
+
+Instructions:
+Marinate beef with spices and oil. Skewer the meat and grill until tender.",Overall quality of this recipe?,Linear Scale 1-5,Poor,Excellent
+Recipe 4 - Moin Moin,"About: A steamed bean pudding made from blended black-eyed peas.
+
+Ingredients:
+- 2 cups peeled beans
+- 1 onion
+- 1 red bell pepper
+- 1/4 cup vegetable oil
+- 2 boiled eggs (optional)
+- Salt, seasoning
+
+Instructions:
+Blend beans, peppers, and onions. Mix with oil and seasonings. Pour into containers, add egg if desired, and steam.",How culturally authentic is this recipe?,Linear Scale 1-5,Not Authentic,Very Authentic
+Recipe 4 - Moin Moin,"About: A steamed bean pudding made from blended black-eyed peas.
+
+Ingredients:
+- 2 cups peeled beans
+- 1 onion
+- 1 red bell pepper
+- 1/4 cup vegetable oil
+- 2 boiled eggs (optional)
+- Salt, seasoning
+
+Instructions:
+Blend beans, peppers, and onions. Mix with oil and seasonings. Pour into containers, add egg if desired, and steam.",Could this recipe be successfully executed by a home cook?,Linear Scale 1-5,Not Viable,Very Viable
+Recipe 4 - Moin Moin,"About: A steamed bean pudding made from blended black-eyed peas.
+
+Ingredients:
+- 2 cups peeled beans
+- 1 onion
+- 1 red bell pepper
+- 1/4 cup vegetable oil
+- 2 boiled eggs (optional)
+- Salt, seasoning
+
+Instructions:
+Blend beans, peppers, and onions. Mix with oil and seasonings. Pour into containers, add egg if desired, and steam.",Are the ingredients culturally accurate and reasonably available?,Linear Scale 1-5,Inappropriate,Very Appropriate
+Recipe 4 - Moin Moin,"About: A steamed bean pudding made from blended black-eyed peas.
+
+Ingredients:
+- 2 cups peeled beans
+- 1 onion
+- 1 red bell pepper
+- 1/4 cup vegetable oil
+- 2 boiled eggs (optional)
+- Salt, seasoning
+
+Instructions:
+Blend beans, peppers, and onions. Mix with oil and seasonings. Pour into containers, add egg if desired, and steam.",Overall quality of this recipe?,Linear Scale 1-5,Poor,Excellent
+Recipe 5 - Akara,"About: Deep-fried bean cakes made from black-eyed peas.
+
+Ingredients:
+- 2 cups peeled beans
+- 1 onion
+- 1 Scotch bonnet pepper
+- Salt
+- Vegetable oil for frying
+
+Instructions:
+Blend beans, onions, and pepper into a smooth paste. Scoop and fry in hot oil until golden brown.",How culturally authentic is this recipe?,Linear Scale 1-5,Not Authentic,Very Authentic
+Recipe 5 - Akara,"About: Deep-fried bean cakes made from black-eyed peas.
+
+Ingredients:
+- 2 cups peeled beans
+- 1 onion
+- 1 Scotch bonnet pepper
+- Salt
+- Vegetable oil for frying
+
+Instructions:
+Blend beans, onions, and pepper into a smooth paste. Scoop and fry in hot oil until golden brown.",Could this recipe be successfully executed by a home cook?,Linear Scale 1-5,Not Viable,Very Viable
+Recipe 5 - Akara,"About: Deep-fried bean cakes made from black-eyed peas.
+
+Ingredients:
+- 2 cups peeled beans
+- 1 onion
+- 1 Scotch bonnet pepper
+- Salt
+- Vegetable oil for frying
+
+Instructions:
+Blend beans, onions, and pepper into a smooth paste. Scoop and fry in hot oil until golden brown.",Are the ingredients culturally accurate and reasonably available?,Linear Scale 1-5,Inappropriate,Very Appropriate
+Recipe 5 - Akara,"About: Deep-fried bean cakes made from black-eyed peas.
+
+Ingredients:
+- 2 cups peeled beans
+- 1 onion
+- 1 Scotch bonnet pepper
+- Salt
+- Vegetable oil for frying
+
+Instructions:
+Blend beans, onions, and pepper into a smooth paste. Scoop and fry in hot oil until golden brown.",Overall quality of this recipe?,Linear Scale 1-5,Poor,Excellent
+Recipe 6 - Pepper Soup,"About: A light, spicy broth commonly served in Nigeria.
+
+Ingredients:
+- 500g goat meat or chicken
+- 2 tbsp pepper soup spice
+- 1 onion
+- Scotch bonnet pepper
+- Seasoning cubes, salt
+
+Instructions:
+Boil meat with spices, onion, and pepper. Simmer until tender in spicy broth.",How culturally authentic is this recipe?,Linear Scale 1-5,Not Authentic,Very Authentic
+Recipe 6 - Pepper Soup,"About: A light, spicy broth commonly served in Nigeria.
+
+Ingredients:
+- 500g goat meat or chicken
+- 2 tbsp pepper soup spice
+- 1 onion
+- Scotch bonnet pepper
+- Seasoning cubes, salt
+
+Instructions:
+Boil meat with spices, onion, and pepper. Simmer until tender in spicy broth.",Could this recipe be successfully executed by a home cook?,Linear Scale 1-5,Not Viable,Very Viable
+Recipe 6 - Pepper Soup,"About: A light, spicy broth commonly served in Nigeria.
+
+Ingredients:
+- 500g goat meat or chicken
+- 2 tbsp pepper soup spice
+- 1 onion
+- Scotch bonnet pepper
+- Seasoning cubes, salt
+
+Instructions:
+Boil meat with spices, onion, and pepper. Simmer until tender in spicy broth.",Are the ingredients culturally accurate and reasonably available?,Linear Scale 1-5,Inappropriate,Very Appropriate
+Recipe 6 - Pepper Soup,"About: A light, spicy broth commonly served in Nigeria.
+
+Ingredients:
+- 500g goat meat or chicken
+- 2 tbsp pepper soup spice
+- 1 onion
+- Scotch bonnet pepper
+- Seasoning cubes, salt
+
+Instructions:
+Boil meat with spices, onion, and pepper. Simmer until tender in spicy broth.",Overall quality of this recipe?,Linear Scale 1-5,Poor,Excellent
+Recipe 7 - Banga Soup,"About: A Delta delicacy made from palm nut extract.
+
+Ingredients:
+- 2 cups palm nut extract
+- 500g assorted meat and fish
+- Banga spices
+- Seasoning cubes, salt
+
+Instructions:
+Boil palm nut extract with meat, fish, and spices. Cook until thick and aromatic.",How culturally authentic is this recipe?,Linear Scale 1-5,Not Authentic,Very Authentic
+Recipe 7 - Banga Soup,"About: A Delta delicacy made from palm nut extract.
+
+Ingredients:
+- 2 cups palm nut extract
+- 500g assorted meat and fish
+- Banga spices
+- Seasoning cubes, salt
+
+Instructions:
+Boil palm nut extract with meat, fish, and spices. Cook until thick and aromatic.",Could this recipe be successfully executed by a home cook?,Linear Scale 1-5,Not Viable,Very Viable
+Recipe 7 - Banga Soup,"About: A Delta delicacy made from palm nut extract.
+
+Ingredients:
+- 2 cups palm nut extract
+- 500g assorted meat and fish
+- Banga spices
+- Seasoning cubes, salt
+
+Instructions:
+Boil palm nut extract with meat, fish, and spices. Cook until thick and aromatic.",Are the ingredients culturally accurate and reasonably available?,Linear Scale 1-5,Inappropriate,Very Appropriate
+Recipe 7 - Banga Soup,"About: A Delta delicacy made from palm nut extract.
+
+Ingredients:
+- 2 cups palm nut extract
+- 500g assorted meat and fish
+- Banga spices
+- Seasoning cubes, salt
+
+Instructions:
+Boil palm nut extract with meat, fish, and spices. Cook until thick and aromatic.",Overall quality of this recipe?,Linear Scale 1-5,Poor,Excellent
+Recipe 8 - Okra Soup,"About: A Nigerian soup with chopped okra, often eaten with fufu.
+
+Ingredients:
+- 3 cups chopped okra
+- 500g beef or goat meat
+- Palm oil
+- Seasoning cubes, pepper, salt
+
+Instructions:
+Cook meat until tender. Add palm oil, chopped okra, and spices. Simmer until slightly thick.",How culturally authentic is this recipe?,Linear Scale 1-5,Not Authentic,Very Authentic
+Recipe 8 - Okra Soup,"About: A Nigerian soup with chopped okra, often eaten with fufu.
+
+Ingredients:
+- 3 cups chopped okra
+- 500g beef or goat meat
+- Palm oil
+- Seasoning cubes, pepper, salt
+
+Instructions:
+Cook meat until tender. Add palm oil, chopped okra, and spices. Simmer until slightly thick.",Could this recipe be successfully executed by a home cook?,Linear Scale 1-5,Not Viable,Very Viable
+Recipe 8 - Okra Soup,"About: A Nigerian soup with chopped okra, often eaten with fufu.
+
+Ingredients:
+- 3 cups chopped okra
+- 500g beef or goat meat
+- Palm oil
+- Seasoning cubes, pepper, salt
+
+Instructions:
+Cook meat until tender. Add palm oil, chopped okra, and spices. Simmer until slightly thick.",Are the ingredients culturally accurate and reasonably available?,Linear Scale 1-5,Inappropriate,Very Appropriate
+Recipe 8 - Okra Soup,"About: A Nigerian soup with chopped okra, often eaten with fufu.
+
+Ingredients:
+- 3 cups chopped okra
+- 500g beef or goat meat
+- Palm oil
+- Seasoning cubes, pepper, salt
+
+Instructions:
+Cook meat until tender. Add palm oil, chopped okra, and spices. Simmer until slightly thick.",Overall quality of this recipe?,Linear Scale 1-5,Poor,Excellent
+Recipe 9 - Efo Riro,"About: A Yoruba vegetable soup made with spinach and peppers.
+
+Ingredients:
+- 4 cups spinach
+- 1/2 cup palm oil
+- 2 red bell peppers
+- 500g beef or fish
+- Onions, seasoning
+
+Instructions:
+Blend peppers and onions. Fry in palm oil, add meat, seasoning, and spinach. Simmer until cooked.",How culturally authentic is this recipe?,Linear Scale 1-5,Not Authentic,Very Authentic
+Recipe 9 - Efo Riro,"About: A Yoruba vegetable soup made with spinach and peppers.
+
+Ingredients:
+- 4 cups spinach
+- 1/2 cup palm oil
+- 2 red bell peppers
+- 500g beef or fish
+- Onions, seasoning
+
+Instructions:
+Blend peppers and onions. Fry in palm oil, add meat, seasoning, and spinach. Simmer until cooked.",Could this recipe be successfully executed by a home cook?,Linear Scale 1-5,Not Viable,Very Viable
+Recipe 9 - Efo Riro,"About: A Yoruba vegetable soup made with spinach and peppers.
+
+Ingredients:
+- 4 cups spinach
+- 1/2 cup palm oil
+- 2 red bell peppers
+- 500g beef or fish
+- Onions, seasoning
+
+Instructions:
+Blend peppers and onions. Fry in palm oil, add meat, seasoning, and spinach. Simmer until cooked.",Are the ingredients culturally accurate and reasonably available?,Linear Scale 1-5,Inappropriate,Very Appropriate
+Recipe 9 - Efo Riro,"About: A Yoruba vegetable soup made with spinach and peppers.
+
+Ingredients:
+- 4 cups spinach
+- 1/2 cup palm oil
+- 2 red bell peppers
+- 500g beef or fish
+- Onions, seasoning
+
+Instructions:
+Blend peppers and onions. Fry in palm oil, add meat, seasoning, and spinach. Simmer until cooked.",Overall quality of this recipe?,Linear Scale 1-5,Poor,Excellent
+Recipe 10 - Chapati,"About: An East African flatbread of wheat flour, soft and chewy.
+
+Ingredients:
+- 3 cups wheat flour
+- 1 cup water
+- 2 tbsp oil
+- Salt
+
+Instructions:
+Mix flour, water, salt, and oil. Knead into dough, roll flat, and cook on hot pan.",How culturally authentic is this recipe?,Linear Scale 1-5,Not Authentic,Very Authentic
+Recipe 10 - Chapati,"About: An East African flatbread of wheat flour, soft and chewy.
+
+Ingredients:
+- 3 cups wheat flour
+- 1 cup water
+- 2 tbsp oil
+- Salt
+
+Instructions:
+Mix flour, water, salt, and oil. Knead into dough, roll flat, and cook on hot pan.",Could this recipe be successfully executed by a home cook?,Linear Scale 1-5,Not Viable,Very Viable
+Recipe 10 - Chapati,"About: An East African flatbread of wheat flour, soft and chewy.
+
+Ingredients:
+- 3 cups wheat flour
+- 1 cup water
+- 2 tbsp oil
+- Salt
+
+Instructions:
+Mix flour, water, salt, and oil. Knead into dough, roll flat, and cook on hot pan.",Are the ingredients culturally accurate and reasonably available?,Linear Scale 1-5,Inappropriate,Very Appropriate
+Recipe 10 - Chapati,"About: An East African flatbread of wheat flour, soft and chewy.
+
+Ingredients:
+- 3 cups wheat flour
+- 1 cup water
+- 2 tbsp oil
+- Salt
+
+Instructions:
+Mix flour, water, salt, and oil. Knead into dough, roll flat, and cook on hot pan.",Overall quality of this recipe?,Linear Scale 1-5,Poor,Excellent
+Recipe 11 - Injera,"About: An Ethiopian spongy flatbread made from teff flour.
+
+Ingredients:
+- 3 cups teff flour
+- 4 cups water
+- Salt
+
+Instructions:
+Mix flour, water, and salt into batter. Let ferment, then cook on skillet until bubbly and spongy.",How culturally authentic is this recipe?,Linear Scale 1-5,Not Authentic,Very Authentic
+Recipe 11 - Injera,"About: An Ethiopian spongy flatbread made from teff flour.
+
+Ingredients:
+- 3 cups teff flour
+- 4 cups water
+- Salt
+
+Instructions:
+Mix flour, water, and salt into batter. Let ferment, then cook on skillet until bubbly and spongy.",Could this recipe be successfully executed by a home cook?,Linear Scale 1-5,Not Viable,Very Viable
+Recipe 11 - Injera,"About: An Ethiopian spongy flatbread made from teff flour.
+
+Ingredients:
+- 3 cups teff flour
+- 4 cups water
+- Salt
+
+Instructions:
+Mix flour, water, and salt into batter. Let ferment, then cook on skillet until bubbly and spongy.",Are the ingredients culturally accurate and reasonably available?,Linear Scale 1-5,Inappropriate,Very Appropriate
+Recipe 11 - Injera,"About: An Ethiopian spongy flatbread made from teff flour.
+
+Ingredients:
+- 3 cups teff flour
+- 4 cups water
+- Salt
+
+Instructions:
+Mix flour, water, and salt into batter. Let ferment, then cook on skillet until bubbly and spongy.",Overall quality of this recipe?,Linear Scale 1-5,Poor,Excellent
+Recipe 12 - Pilau Rice,"About: A fragrant East African spiced rice dish.
+
+Ingredients:
+- 3 cups basmati rice
+- 500g beef or chicken
+- Pilau spice mix
+- 1 onion
+- Oil, salt
+
+Instructions:
+Fry onions and spices. Add meat and rice, then simmer with stock until fluffy and fragrant.",How culturally authentic is this recipe?,Linear Scale 1-5,Not Authentic,Very Authentic
+Recipe 12 - Pilau Rice,"About: A fragrant East African spiced rice dish.
+
+Ingredients:
+- 3 cups basmati rice
+- 500g beef or chicken
+- Pilau spice mix
+- 1 onion
+- Oil, salt
+
+Instructions:
+Fry onions and spices. Add meat and rice, then simmer with stock until fluffy and fragrant.",Could this recipe be successfully executed by a home cook?,Linear Scale 1-5,Not Viable,Very Viable
+Recipe 12 - Pilau Rice,"About: A fragrant East African spiced rice dish.
+
+Ingredients:
+- 3 cups basmati rice
+- 500g beef or chicken
+- Pilau spice mix
+- 1 onion
+- Oil, salt
+
+Instructions:
+Fry onions and spices. Add meat and rice, then simmer with stock until fluffy and fragrant.",Are the ingredients culturally accurate and reasonably available?,Linear Scale 1-5,Inappropriate,Very Appropriate
+Recipe 12 - Pilau Rice,"About: A fragrant East African spiced rice dish.
+
+Ingredients:
+- 3 cups basmati rice
+- 500g beef or chicken
+- Pilau spice mix
+- 1 onion
+- Oil, salt
+
+Instructions:
+Fry onions and spices. Add meat and rice, then simmer with stock until fluffy and fragrant.",Overall quality of this recipe?,Linear Scale 1-5,Poor,Excellent
